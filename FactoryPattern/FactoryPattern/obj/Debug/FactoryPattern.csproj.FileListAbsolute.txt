@@ -1,0 +1,7 @@
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\v-avjan\source\repos\bugfix\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

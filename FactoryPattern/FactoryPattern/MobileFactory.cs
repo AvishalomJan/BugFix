@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    abstract class MobileFactory
+    public abstract class MobileFactory
     {
         public abstract IMobile CreateMobileDevice();
     }

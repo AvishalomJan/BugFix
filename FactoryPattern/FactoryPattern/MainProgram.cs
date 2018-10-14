@@ -6,12 +6,18 @@ namespace FactoryPattern
 {
     class MainProgram
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            IPhoneCreator iphoneFactory = new IPhoneCreator();
-            AndroidCreator androidFactory = new AndroidCreator();
+            MobileFactory[] factory = new MobileFactory[2];
 
-            IMobile mobileDevice = androidFactory.CreateMobileDevice();
+            factory[0] = new IPhoneCreator();
+            factory[1] = new AndroidCreator();
+
+            foreach(MobileFactory creator in factory)
+            {
+                creator.CreateMobileDevice();
+            }
+
         }
 
     }

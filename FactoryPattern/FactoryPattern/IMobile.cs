@@ -4,18 +4,19 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    interface IMobile
+    public interface IMobile
     {
     }
 
-    class IPhone : IMobile{
+    public class IPhone : IMobile
+    {
         public IPhone()
         {
             Console.WriteLine("Hello IPhone!" );
         }
     }
 
-    class Android : IMobile
+    public class Android : IMobile
     {
         public Android()
         {
